@@ -1,5 +1,6 @@
 # Projeto scraping python + selenium + beautifulsoup4 site kabum.
-## extração dos dados: descrição, preço e URL do produto.
+# Python 3.10.5
+## Extração dos dados: descrição, preço e URL do produto.
 
 ### Funções:
 
